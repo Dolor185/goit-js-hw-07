@@ -1,0 +1,14 @@
+{
+    "liveServer.settings.ignoreFiles": [
+
+        
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.mount": [
+    
+    ],
+    "liveServer.settings.CustomBrowser": "chrome",
+    "zenMode.hideStatusBar": false
+}
